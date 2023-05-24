@@ -1,1 +1,3 @@
 # Android-Vaccine-Project
+
+This is a native android app developed in android studio with java for an Undergraduate CS class about android development. It was a group project consisting of a time of three people. The purpose of the project was to create an original and unique app, with the only other prerequisite of using certain tools we were taught in class. The class was taken in the second semester of 2021 when the covid vaccines started to roll out. The idea was to create an app to inform the public about the covid vaccine and create notifications for their vaccine appointments. The difficulty in this project was, outside of utilizing the tools taught in class, to learn from scratch and implement a notification system.
